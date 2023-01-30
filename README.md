@@ -1,8 +1,8 @@
-<img align="left" src="./raven.png">
+<img align="left" src="https://orhun.dev/img/crow.png">
 
 ### Hey!
 
-I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+I'm someone who loves **GNU/Linux** and likes to **write code**.
 <!--
 **ravenxd0/ravenxd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
