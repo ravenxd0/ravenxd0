@@ -1,5 +1,8 @@
-### Hi there 👋
+<img align="left" src="./raven.png">
 
+### Hey!
+
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <!--
 **ravenxd0/ravenxd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
