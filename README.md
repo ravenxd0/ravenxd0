@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm someone who loves **GNU/Linux** and likes to **write code**.
+I'm someone who spends the day in **GNU/Linux** and likes to **write code**.
 <!--
 **ravenxd0/ravenxd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
