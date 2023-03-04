@@ -1,5 +1,4 @@
 <img align="left" src="./crow.png">
-$ ./introduction
 
 ### Hey!
 
