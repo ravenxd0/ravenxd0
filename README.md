@@ -2,7 +2,7 @@
 
 ### Hey!
 
-**Try Occam's razor.**
+
 <!--
 **ravenxd0/ravenxd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
